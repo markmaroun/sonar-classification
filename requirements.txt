@@ -1,0 +1,8 @@
+matplotlib >= 3.7.1
+pandas
+scikit-learn >= 1.2.2
+numpy >= 1.25.0
+google.colab
+seaborn
+tensorflow
+keras-tuner == 1.4.7
